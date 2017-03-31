@@ -1,0 +1,134 @@
+Beware the bluntiness!
+
+> I will make the coffee
+Atashi kofi far vou
+I coffee make will
+
+> Can you prepare the food?
+Kime moi far cuna?
+you food prepare can?
+
+> Do you want chocolate?
+Kime chocoretu siya?
+You chocolate wish?
+
+chocoretu siya?
+chocolate wish?
+
+> Do you want juice? yes! I want!
+jussu siya? Ne! Atashi siya!
+Juice wish? Agreed! I want!
+
+> 0201: It is a lovely little old rectangular green French iron whittling knife
+Kisua chiämu lonjiplate chisai ve airon midori äntije fransei ve escuruite naifu desu
+It*a* lovely rectangular little of iron green old french "used for" whittling knife is
+
+> 0202: Essa faca verde está linda! (no english equivalent)
+Core naifu midori *wa* chiämu sta!
+This knife green *wa* lovely is!
+
+> 0203: this knife became a sword
+Core naifu wa suworde naruu
+Core naifu wa suworde naruu
+This knife *wa* sword become
+
+> 0204: This knife caused his death
+Core naifu chiauo kimeno buumo
+This knife caused his death
+
+> 0205: I make you happy
+Atashio kimea felisi far
+I*o* you*a* happy make
+
+Atashi felisi far vi
+I happy make you
+
+> 0206: make it happen!
+kisu aconte far!
+it make happen!
+
+aconte faru
+make happen!
+
+> 0207: I have water
+Atashi mizu chinde
+I water have
+
+> 0208: We can make it!
+Bumeo kisua far cuna!
+We*o* it*ya* make can!
+
+Kisu far cuna!
+It make can!
+
+> 0209: It shall work.
+kisu funsionar
+v
+
+
+# old drafts
+## Computers
+### Alphabet comparison compared to english
+a e o â u i ø ë b p f v c g r l m n t d s z q h w y _ _ _ _ #ol hovarite
+a e o _ u i _ _ b p f v c g r l m n t d s z q h w y q x k j #english
+absent letters: q, x, k, j
+### Colerak keyboard mapping:
+Left         |Mid     | Right
+*ö* w  f  p  | g  x   |l  u  y  ;
+  a  r  s  t |  d  h  | n  e  i  o
+   z *ä* c  v|   b *ë*|  m  ,  .  /
+absent letters: q, k, j
+moved letters: x (x is symbollical therefore, preserved.)
+
+
+**avech:** to have
+**sive:** used to.
+**sira:** would do.
+**sija:** would be, wish to, express a wish or desire.
+**vou**: will
+
+desu: expresses that a __a condition *is true*__.
+sta: expresses the __current condition__.
+
+## Transliteration rules (from english)
+strenght
+strengte // consonant deletion + vowel fill-up
+
+witchcraft
+wich.craft // consonant deletion
+
+### attachable to subjects:
+-a: topic or subject marker. Dettachable for multiword topic/subjects,
+    becoming 'wa'.
+-o: topic marker. Used only along with "ya" when there's both a topic
+    and subject in the sentence. Dettachable for multiword topic/subjects.
+-no: indicates target location, until target, in target, inside target.
+
+
+### attachable to objects:
+-pot: something filled with, a container or box for
+      example: inke ‎("ink") -> inkepote ‎(“inkpot”).
+-s: a group of.
+-pake: indicates a pack of, a group of.
+### attachable to verbs:
+-te: way of doing something, means of.
+-ou/-dou: indicates past (past perfect, concretized action)
+-ne: emphatizes the action, reinforces and reafirms it! (positive)
+-nai: negates the verb
+sive: used to (imperfect past, nuances something that was present in the moment
+      of the past being described)
+sira: would do
+siya: would be, wish to, express a wish or desire
+vou: indicates future, will do, will (as in willpower or duty).
+     (Future of the present or Simple future).
+
+note.: the alternate forms are used when the verb ends in 'n'
+
+### Objectives
+- Expressiveness: Pack a lot of meaning using few words, clutter-grammar free,
+  inference things easily by context.
+- Logic: No exceptions to the grammar rules and irregular verbs.
+- Resistance, freedom and respect driven vocabulary: specific words and jargons
+  expressing resistance to opression, emphasizing respect and mutual agreements
+  positive for both parties, vocabulary for expressing that someone is concealing
+  hate within the lines of a joke and reinforcing it negatively.
